@@ -16,7 +16,7 @@ var config={
 	user:'murari',
 	database:'free4error',
 	port:'5432',
-	password:'ajay15'
+	password:''
 }
 
 //creating pool object
